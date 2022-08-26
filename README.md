@@ -9,8 +9,7 @@ I plan to upload a few more chapters here as well, so if you like to get them, k
 ---------------------------------
 My amazing comic designers:
 
-Shakiba Sadeghi
-Fereshteh Alikhani
-Beatrice Bassolli
+Shakiba Sadeghi, 
+Fereshteh Alikhani, 
+Beatrice Bassolli, 
 Diana Nezhivova
-

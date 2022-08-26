@@ -12,4 +12,4 @@ My amazing comic designers:
 Shakiba Sadeghi, 
 Fereshteh Alikhani, 
 Beatrice Bassolli, 
-Diana Nezhivova
+Diana Nezhyvova

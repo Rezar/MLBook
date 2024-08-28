@@ -5,4 +5,4 @@ Here are some sample chapters for the book I have been writing since 2017. I hop
 I might upload a few more chapters here as well, if you like to get them, keep watching this repo. 
 
 ---------------------------------
-I should acknowlegde many people who helped me in this journey, especially my amazing comic illustrators: Shakiba Sadeghi, Fereshteh Alikhani, Beatrice Bassolli
+I should acknowlegde many people who helped me in this journey, especially my amazing comic illustrators: Shakiba Sadeghi, Beatrice Bassolli

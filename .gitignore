@@ -1,2 +1,29 @@
-Icon
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Data (add large files manually or use Git LFS)
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+data/raw/
+data/interim/
+
+# Build/output
+build/
+dist/
+*.egg-info/
